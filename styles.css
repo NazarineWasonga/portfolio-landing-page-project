@@ -53,12 +53,13 @@ body {
     justify-content: center;
     align-items: center;
     text-align: center;
-    color: rgb(66, 62, 85);
+    color: rgb(47, 31, 126);
     font-size: 2rem;
     margin: -15vh 5vw 10vh 5vw;
     font-family: Arial, Helvetica, sans-serif;
     font-variant: small-caps;
     cursor: default;
+    background-color: rgb(214, 168, 135);
 }
 
 /* About me section styles */
