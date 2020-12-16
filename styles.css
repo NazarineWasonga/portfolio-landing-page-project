@@ -10,15 +10,7 @@ body {
     background-attachment: fixed;
     background-size: 100vw 100vh;
     font-family: sans-serif;
-}<footer><p align="center">
-            <font face="arial" size="-2">This free script provided by</font><br>
-            <font face="arial, helvetica" size="-2"><a href="https://github.com/NazarineWasonga" target="_blank" 
-                    class="logo">GitHub</a></font> <br>
-         Copyright &#169; 2020 All Rights Reserved</p></footer><footer><p align="center">
-            <font face="arial" size="-2">This free script provided by</font><br>
-            <font face="arial, helvetica" size="-2"><a href="https://github.com/NazarineWasonga" target="_blank" 
-                    class="logo">GitHub</a></font> <br>
-         Copyright &#169; 2020 All Rights Reserved</p></footer>
+}
 
 .title {
     text-align: center;
