@@ -59,8 +59,10 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     font-variant: small-caps;
     cursor: default;
-    background-color: rgb(235, 168, 121);
     background-image: url('https://lh3.googleusercontent.com/BWlIkVtXLv-u51oSde04QdKqoU2BTDOUdavmYx2Zj88Y2o7bO1CzCCpWQzmB8b4M1WHSLBNWhxdXKpUdylpx4GRGwT4n4htfiSiC23AxnzcLeBN-3pcqXhei9disn3JLaxCqR_PA6Ir61GXSuCdT_HaguRDEV87G8lmyv9Lg4NOyD8xt-piw1S3DE5L6rvDhAdgCF6k1uF66iB1r4YuP1c_b6MXU13l0SRQpxUiDH1LK09TFzuFZdf1hnde7neBy26VRQC1mR5TCVL0vid1qN-1PoWhfkFoGK-z-gJZE5rE5wnyh8RuOcS5cOtRhL0TFhHMmJ7rKA0P_MQoQC3HN-EnZ7BsbA3f7EYHoLPA81QSh_x03Bn6cpTtyzIglyWvn3r-4FjX8jm62lKoPHvhNsA6FIeTvk8KgbX2-U_KcR9kHNVwJd-PNWl0Ut1IitJ60SK8tgeqR7ZVNqS7rYBoZ6mj4odK0hLU6AlQFeQlJxukjwCC3hHpPN8e3vNaTnYxghAqCuMSgBqo0MV1W9kZ9Ca6DbKu_Wdm70xPvEpvfdnzmdbI4aZ0wfeRqzFTZKedZmSVk9hoI-v7WZft6PLd_pKf-TX1JNcAtXRQLGFmLYmdKD_U7z11e8jD-cSXTVx_trjBFD1p3_kSGwC2_tH2JLVfSN9T_If3R1EjIv1hduk1nl9aVGIOUkW8ABFUD7g=s669-no?authuser=0');
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
 /* About me section styles */
